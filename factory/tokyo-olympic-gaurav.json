@@ -1,9 +1,0 @@
-{
-	"name": "tokyo-olympic-gaurav",
-	"location": "centralindia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b656d205-a5af-47f3-8b65-7dda154fd7b1",
-		"tenantId": "fe93855b-8edc-48ee-a63f-87dc6435ba6d"
-	}
-}
